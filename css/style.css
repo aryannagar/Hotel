@@ -1,0 +1,245 @@
+body{
+	margin: 0px; padding: 0px;
+ 	 font-size: 14px;
+ 	font-family: Open Sans;
+    height: 100%;
+    overflow-x: hidden; 
+}
+html,body{height: 100%;}
+
+
+.banner{background-image: url(../images/wedding.jpg);
+	background-size: cover; float: left; width: 100%;
+	 background-attachment: fixed; height: 100%;
+}
+
+.margintp{padding-top: 60px;} 
+.marginbt{padding-bottom: 60px;}
+.display{padding: 30px 0px 30px 0px;}
+.display p{font-size: 14px; margin-top: 50px; color: #848484; 
+	font-family: Open Sans;}
+.display h1{font-size: 35px; color: #c0812a; font-family: Open Sans;
+	margin-bottom: 20px; width: 90%; font-weight: 600;}
+.display .text p{font-size: 14px;  color: #848484; 
+	font-family: Open Sans; margin-top: 0px; width: 90%; margin-bottom: 20px;}
+.display button{}
+.display a{padding: 6px 24px; background: #8f887e; 
+	display: inline-block; font-size: 14px; color: white; border-radius: 30px;
+	text-decoration: none;}
+.display a:hover{opacity: .6;}
+
+.display img{float: left; max-width: 100%;}
+
+.rooms-suits{padding: 40px 0px 40px 0px; background: #f5f0e9;}
+.rooms-suits h1{font-size: 35px; color: #c0812a; font-family: Open Sans;
+ text-align: center; font-weight: 600;}
+.rooms-suits p{font-size: 14px; color: #848484; font-family: Open Sans;
+text-align: center; padding: 10px 40px 10px 40px;}
+
+.blogpost{text-align: center; padding: 40px 0px 80px 0px; background: #f5f0e9}
+.blog-post img{max-width: 100%; overflow: hidden; text-align: center;}
+.blog-bttn{text-align: center; display: inline-block; 
+	padding: 5px 20px; background: #8f887e; color: white; 
+	text-decoration: none; margin: 10px 0px 0px 0px;}
+.blog-bttn:hover{color: black; text-decoration: none;}
+.blog-post h1{font-size: 15px; color: black; text-align: center;
+ font-weight: 600;}
+.blog-post h1:hover{text-decoration: none;}
+.blog-post p{font-size: 15px; color: #848484; font-weight: 400px; text-align: center;}
+.blog-post:hover img{transition: all 0.3s ease 0s;
+ transform: scale(1.2, 1.2); overflow: hidden; opacity: 0.5;}
+.padd{background: white; padding: 30px;}
+.blog-post:hover{overflow: hidden;}
+
+.lenoboys:hover{transform: translateY(-10px);
+	box-shadow: 0 22px 43px rgba(0, 0, 0, 0.15);}
+.fourboys{border-bottom: 1px dashed grey;}
+.lenoboys img{max-width: 100%;}
+.hotel-facility{margin-top: 30px 0px 30px 0px;}
+.hotel-facility h1 {text-align: center; color:#c0812a;
+ font-family: Open Sans; font-weight: 600;}
+.hotel-facility p{text-align: center; font-size: 15px; color: #848484;
+padding: 10px 40px 10px 40px;}
+.display-inherit{display: inherit!important;}
+.text-center{text-align: center!important;}
+.col-center{float: none!important;margin-left: auto!important; 
+	margin-right: auto!important;}
+
+.hoteldesc h1{font-size: 30px; color: #c0812a; padding-bottom: 10px;
+padding-top: 0px; margin-top: 0px;}
+.hoteldesc p{font-size: 15px; color: #848484; padding-bottom: 10px;}
+.textcnt{float: none!important; display: inline-block!important;}
+.take{padding-top: 30px;}
+
+
+.slide{}
+
+.fourfacility{ background: #f5f0e9; text-align: center;}
+.fourfacility img{margin-bottom: 20px;}
+.fourfacility h1{text-align: center; font-size: 16px; 
+	color: black; font-weight: 600; font-family: Open Sans; margin-bottom: 20px;}
+.fourfacility p{font-size: 15px; color: #848484; 
+	text-align: center; font-family: Open Sans;}
+.paddtpb{margin-top: 30px; margin-bottom: 30px;}
+
+
+.col-center{float: none!important; margin-left: auto!important;
+	margin-right: auto!important;}
+.weddingtext p{font-size: 24px; color: #848484; padding-left: 0px!important;
+padding-right: 0px!important; font-weight: 300!important; font-family: Open Sans;}
+.paddingt{padding: 7%;}
+
+.bg-yellow{background: #c0812a;}
+
+.ullichange{display: inline-block!important;float: none!important;}
+.mrt{margin-top: 30px;}
+.cent{float: none; display: inline-block;}
+#float-dispaly{}
+#float-dispaly ul li{float: none; display: inline-block;}
+.fortext{width: 83%;}
+.fortext h1{font-size: 25px; color: #817b71; margin: 5px 0px 5px 0px; text-align: left; margin-top: 10px; font-weight: 600;}
+.fortext p{font-size: 15px; color: #817b71; text-align: left;margin-top: 15px;}
+.nomag-padd{margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px;}
+.owl-dots{position: absolute;right: 0px; left: 0px; bottom: 20px; color: white;}
+.freeenviroment{text-align: center; margin: 5px 0px 5px 0px;}
+.freeenviroment h3{font-size: 14px; font-family: Open Sans; 
+font-weight: 600; color: #282828;}
+.freeenviroment p{font-size: 14px; color: #817b71; margin-top: 20px;}
+.bgcol{background: #f5f0e9; }
+.off{}
+.off p{font-size: 24px; color: black; font-weight: 300; padding: 2%;}
+.luxuryservice{background: #c0812a; padding: 40px 80px 20px 80px; height: 552px;}
+.luxuryservice h1{ font-size: 35px; color: white; font-family: Open Sans; font-weight: 600;}
+.luxuryservice p{font-size: 18px; font-weight: 300; color: white; width: 80%;}
+.luxuryservice h3{font-size: 20px; color: white; font-family: Open Sans; }
+.luxuryservice span{font-size: 15px; color: white; font-family: Open Sans;width: 80%;}
+.luxbutton{padding: 6px 24px; background: transparent; color: white; border: 1px solid white; border-radius: 50px; margin-top: 30px;}
+.luxbutton:hover{background: white; color:#c0812a; transition: all ease-in .3s; }
+.luxservice img{max-width: 100%; max-height: 100%;}
+.hoteloffers{text-align: center;}
+.hoteloffers h1{font-size: 30px; color: #c0812a; text-align: center;
+font-weight: 700; font-family: Open Sans;}
+.hoteloffers p{font-size: 15px; color: #817b71; font-family: Open Sans; text-align: center; width: 100%;}
+.width60{width: 60%; margin: 0 auto; float: none;}
+
+.sportstext{}
+.sportstext h1{font-weight: 700; color: #c0812a; 
+font-size: 35px;}
+.sportstext p{font-size: 16px;color: #a4a0a0;
+line-height: 20px;}
+.circleimage img{}
+
+
+
+.honeymoonpack img{max-width: 100%;}
+.whitepor{background: white; width: 50%; position: absolute; right: 0px;
+top: 0px; height: 100%;}
+.whiteportext{padding: 15%;}
+.whiteportext h6{font-size: 14px; color: black; margin-bottom: 15px;
+ font-weight: 600; font-family: Open Sans;}
+.whiteportext p{font-size: 15px; color: black; 
+	font-family: Open Sans; margin-bottom: 15px;}
+.whiteportext a{font-size: 15px; color: #c0812a; text-align: none;
+font-weight: 600; text-decoration: underline;}
+.whiteportext a:hover{text-decoration: none;}
+.testimonials{text-align: center;}
+.testimonials img{text-align: center; width: 100px;
+ height: 100px; border-radius: 50px;}
+/*.testimonials p{padding: 20px 0px 20px 0px; color: #707070; 
+	font-family: Open Sans;}*/
+.testimonials span{color: black; font-weight: 600; text-align: center;
+font-family: Open Sans;}
+.testmotext{width: 90%;}
+.testmotext p{padding: 20px 0px 20px 0px; color: #707070; 
+	font-family: Open Sans; width: 100%;}
+.margbt{margin-bottom: 5%;}
+
+.bgimage{background-image: url(../images/hero-bg25.jpg); background-size: 
+cover; background-position: center; height: 400px; background-attachment: fixed;}
+.discover{background: black; opacity: 0.8;height: 250px; text-align: center;}
+/*.discover:hover{border: 2px solid white; transition: all .3s ease-in; border-radius: 4px;}*/
+.discovertext{padding: 35px 18px 25px 18px;}
+.discover:hover{border-radius: 20px 0px 20px 0px solid white; transition: all .3s ease-in}
+
+.discover span{font-size: 15px; color: white; font-family: Open Sans;
+font-weight: 600; text-align: center; padding-top: 20px; padding-bottom: 20px;}
+.discover h6{font-size: 23px; color: #c0812a; text-align: center; font-family: 
+Open Sans; font-weight: 300; margin-top: 15px; margin-bottom: 20px;}
+.discover p{font-size: 15px; color: white; text-align: center; font-family: 
+Open Sans; font-weight: 300;}
+.test{height: 400px;}
+
+.count{text-align:  center;}
+
+.book_now img{max-width: 100%;}
+.booknow{ background: #c0812a;}
+.insider{padding: 40px 60px 50px 60px; height: 509px;}
+.booknow h2{font-size: 45px; color: white; margin-top: 20px;
+	text-align: left;font-weight: 700;}
+.booknow span{font-size: 28px; color: white; text-align: left;
+font-weight: 500; font-family: Open Sans;margin-top: 20px;
+margin-bottom: 20px;}
+.booknow p{font-size: 18px; color: white; text-align: left; font-weight: 400;
+font-family: Open Sans; margin-top: 5px; margin-bottom: 20px; width: 90%;}
+.insider input{display: block; color: grey; height: 50px;
+width: 80%; border: none; margin-bottom: 20px; padding: 10px 20px;
+ border-radius: 4px;}
+
+.insider button{width: 35%; background: #ecce63; display: inline-block;
+ color: #282828; padding: 10px 10px; border: none; border-radius: 4px; }
+.insider button:hover{opacity: 0.7; color: #282828; font-weight: 500;}
+
+.contacttext{ width: 80%; text-align: center; margin: 0 auto;}
+.contacttext span{font-size: 16px; color: black; font-weight: 700;
+text-align: center; font-family: Open Sans;}
+.contacttext p{font-size: 15px; color: grey; text-align: center;
+font-family: Open Sans;font-weight: 300; margin-top: 15px;}
+
+.privacy{}
+.privacy ul{}
+.privacy ul li{list-style: none; text-align: center; display: inline-block;
+margin-right: 18px;}
+.privacy ul li a {text-decoration: none; font-size: 14px; color: grey;}
+.theme{text-align: center;font-size: 14px; color: grey;}
+
+.icon{text-align: center;}
+.icon ul{}
+.icon ul li{list-style: none; text-align: center;display: inline-block;
+margin-right: 25px;}
+.icon ul li a{text-decoration: none; color: grey;}
+
+.contact{text-align: center;}
+.arrow1{font-size: 30px; color: #c0812a; text-align: center;
+margin-bottom: 20px;}
+.fb{ font-size: 18px;}
+.fb:hover{color: #c0812a; font-size: 20px; 
+	transition: all ease-in .3s;}
+
+.menu{}
+.menu ul{list-style: none;}
+.menu ul li{display: inline-block; font-family: Open Sans;
+ padding: 24px 18px; position: relative;}
+.menu ul li a{text-decoration: none; color: black; font-size: 16px;
+width: 100px;}
+.menu ul li:hover {border-top: 3px solid #c0812a;}
+
+
+#newmenu.menudrop{list-style: none;z-index: 10001;
+position: absolute;left: 0;top: 75px;width: 100%;}
+#newmenu.menudrop li{display: none; text-align: center;
+padding: 20px 10px; position: relative; width: 150px; background: white;
+border-bottom: 1px solid #c0812a; color: black;
+}
+#newmenu.menudrop li a{font-size: 15px; color: black;}
+
+.menu ul li:hover #newmenu.menudrop li{display: block;}
+#newmenu.menudrop li:hover{background: #c0812a; 
+border-bottom: 3px solid white; color: white;}
+#newmenu.menudrop li a:hover{color: white;}
+
+.logobottom img{text-align: center; margin: 0 auto; float: none;}
+
+.hamm{position: relative; top: 30px; right: 30px; text-align: right;
+float: right;}
+.hamm i{color: black; font-size: 25px;}
+.hamm{cursor: pointer;}

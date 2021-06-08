@@ -1,0 +1,68 @@
+@media only screen and (max-width:1366px){
+	.hamm{display: none;}
+}
+
+
+@media only screen and (max-width:992px){
+
+	.menu ul li{display: block;}
+	.menu ul li:hover{border-bottom: 1px solid #c0812a; border-top: none;}
+	.menu{margin-bottom: 20px;}
+	.hamm{display: block;}
+}
+
+@media only screen and (max-width:480px){
+	.display h1{text-align: center; width: 100%;}
+	.display p{text-align: center; width: 100%;}
+	.display{width: 100%; padding: 0px;}
+	.display .text p{width: 100%;}
+	.display a{text-align: center;}
+	.text{text-align: center;}
+	.rooms-suits p{text-align: center; padding: 0px; width: 100%;}
+	.blog-post{margin-bottom: 20px;}
+	.lenoboys{margin-bottom: 25px;}
+	.hotel-facility p{padding: 0px;}
+	.luxuryservice{padding: 10px 10px 0px 10px; text-align: center;
+	height: 580px;}
+	.luxuryservice p{width: 100%;}
+	.luxbutton{display: block;text-align: center;float: none;
+	margin: 30px auto;}
+	.width60{width: 100%;}
+	.whitepor{width: 100%; position: static; float: none;
+	margin: 0 auto;}
+	.whiteportext{padding: 6%;}
+	.discover{margin-bottom: 20px;}
+	.bgimage{height: 100%;}
+	.privacy{text-align: center; margin-bottom: 20px;}
+	.theme{margin-bottom: 20px;}
+	.booknow h2{text-align: center;}
+	.booknow span{text-align: center;}
+	.booknow p{text-align: center; width: 100%;}
+	.insider input{width: 100%;}
+	.insider button{text-align: center;}
+	.insider{text-align: center;}
+	.honeymoonpack{margin-bottom: 20px;}
+	.count{margin-bottom: 30px;}
+	.insider button{width: 40%;}
+	.circleimage img{text-align: center; float: none;margin: 0 auto;}
+	.circleimage{text-align:center;}
+	.off{text-align: center;}
+	.sportstext{text-align: center;}
+	.marginbt{margin-bottom: 0px;}
+	.margintp{margin-top: 0px;}
+	.menu ul li{display: block;}
+	.menu ul li:hover{border-bottom: 1px solid #c0812a; border-top: none;}
+	.menu{margin-bottom: 20px;}
+	.hamm{display: block;}
+	.menu{display: none;}
+	.nav-tabs{border-bottom: none;}
+	#float-dispaly ul li{width: 100%; background: white;}
+	#float-dispaly ul li:hover{background: #ccc;}
+	#float-dispaly ul li a{border: none;}
+	.insider{height: auto; padding: 40px 30px 50px 30px;}
+	.booknow h2{font-size: 35px;}
+	.booknow span{font-size: 25px;}
+	.display h1{font-size: 30px;}
+	.rooms-suits h1{font-size: 30px;}
+	.sportstext h1{font-size: 30px;}
+	}

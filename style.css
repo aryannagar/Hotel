@@ -1,0 +1,10 @@
+body{
+	background-color: white;
+	margin: 0px;
+	padding: 0px;
+	font-family: open sans;
+
+}
+
+.nopadd{padding: 0px;}
+.nomarg{margin: 0px;}
